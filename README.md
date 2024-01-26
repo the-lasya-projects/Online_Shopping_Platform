@@ -7,7 +7,7 @@ Shopizer (for java 1.8 +)
 -------------------
 
 Java open source e-commerce software
-
+- User authentication
 - Shopping cart
 - Catalogue
 - Search
