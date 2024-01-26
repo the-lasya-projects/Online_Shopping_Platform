@@ -36,7 +36,7 @@ Clone the repository:
 
 If this is your first time using Github, review http://help.github.com to learn the basics.
 
-You can also download the zip file containing the code from https://github.com/shopizer-ecommerce/shopizer 
+
 
 To build the application:
 -------------------	
@@ -87,12 +87,6 @@ run as Java Application
 
 Access the deployed web application at: http://localhost:8080/
 
-Acces the admin section at: http://localhost:8080/admin
-
-username : admin
-
-password : password
-
 The instructions above will let you run the application with default settings and configurations.
 Please read the instructions on how to connect to MySQL, configure an email server and configure other subsystems
 
@@ -100,9 +94,7 @@ Please read the instructions on how to connect to MySQL, configure an email serv
 ### Documentation:
 -------------------
 
-Documentation available from the wiki <http://shopizer-ecommerce.github.io/shopizer/#>
-
-ChatOps <https://shopizer.slack.com>  - Join our Slack channel https://shopizer-slackin.herokuapp.com/
+Documentation available from the wiki <http://shopizer-ecommerce.github.io/shopizer/
 
 More information is available on shopizer web site here <http://www.shopizer.com>
 
