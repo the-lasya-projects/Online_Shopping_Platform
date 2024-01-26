@@ -14,6 +14,8 @@ Java open source e-commerce software
 - Checkout
 - Administration
 - REST API
+  ![Screenshot 2024-01-26 164433](https://github.com/the-lasya-projects/Online_Shopping_Platform/assets/142709321/482982b9-628f-454b-8e39-b9a5d5e34212)
+
 
 See the demo:
 -------------------
